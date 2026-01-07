@@ -8,12 +8,11 @@ tiny-cs-projects/
 ├── README.md
 ├── MIT license.md
 └── days/
-    ├── day-001--stack.py
-    ├── day-002--queue.py
+    ├── day_001__FizzBuzz.py
+    ├── 
     └── ...
 ```
 
 ## Daily Log
 
-- **Day 001** (2025-01-07) - Stack: Basic stack implementation with push/pop operations
-- **Day 002** (2025-01-08) - Queue: Queue data structure using lists
+- **Day 001** (2025-01-07) - **FizzBuzz** but every condition is a nested ternary operator (no if statements allowed)
