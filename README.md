@@ -1,4 +1,4 @@
-# Tiny CS Projects - A War Crimes Documentation
+# Coding War Crime - A War Crimes Documentation
 
 A collection of small code snippets, experiments, and **intentional coding atrocities**. This repo documents my journey as a long-term learner by deliberately writing terrible code to understand *why* we don't do things this way.
 
