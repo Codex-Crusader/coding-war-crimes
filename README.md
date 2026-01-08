@@ -9,10 +9,11 @@ tiny-cs-projects/
 ├── MIT license.md
 └── days/
     ├── day_001__FizzBuzz.py
-    ├── 
+    ├── days_002__war_calculator.py
     └── ...
 ```
 
 ## Daily Log
 
 - **Day 001** (2025-01-07) - **FizzBuzz** but every condition is a nested ternary operator (no if statements allowed)
+- **Day 002** (2025-01-08) - **Calculator** that converts all numbers to strings, does string manipulation, then converts back
