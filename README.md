@@ -42,13 +42,15 @@ tiny-cs-projcets/
 └── days/
     ├── day_001__FizzBuzz.py
     ├── days_002__war_calculator.py
-    └── ...
+    ├── days_003__worse_bogosort.py
+    └──...
 ```
 
 ## Daily Log
 
 - **Day 001** (2025-01-07) - **FizzBuzz** but every condition is a nested ternary operator (no if statements allowed)
 - **Day 002** (2025-01-08) - **Calculator** that converts all numbers to strings, does string manipulation, then converts back
+- **Day 003** (2025-01-09) - **Sorting algorithm** that just shuffles randomly until it's sorted (bogosort but worse)
 
 ## Contributing
 
