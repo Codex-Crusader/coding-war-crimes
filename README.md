@@ -2,11 +2,15 @@
 
 A collection of small code snippets, experiments, and **intentional coding atrocities**. This repo documents my journey as a long-term learner by deliberately writing terrible code to understand *why* we don't do things this way.
 
+---
+
 ## ⚠️ WARNING: Educational War Crimes Ahead
 
 **This code is intentionally bad.** Every file in this repo violates best practices, ignores optimization, and makes seasoned developers cry. The goal is simple: learn by breaking all the rules, then understanding exactly why those rules exist.
 
 If you're looking for production-ready code, turn back now. If you want to see creative ways to make Python suffer, you're in the right place.
+
+---
 
 ## Philosophy
 
@@ -19,6 +23,8 @@ This repo explores:
 - **Cursed creativity** - Combining concepts that should never be combined
 
 No strict curriculum. No deadlines. Just curiosity-driven chaos and long-term learning.
+
+---
 
 ## What Makes This Different
 
@@ -34,6 +40,8 @@ Each war crime comes with:
 - ✅ The "correct way" for comparison
 - ✅ Educational value buried under the chaos
 
+---
+
 ## Structure
 ```
 tiny-cs-projcets/
@@ -43,14 +51,23 @@ tiny-cs-projcets/
     ├── day_001__FizzBuzz.py
     ├── days_002__war_calculator.py
     ├── days_003__worse_bogosort.py
-    └──...
+    ├── days_004__linierly_linked_hashmap.py
+    ├──
+    └──
+
+
 ```
+
+---
 
 ## Daily Log
 
 - **Day 001** (2025-01-07) - **FizzBuzz** but every condition is a nested ternary operator (no if statements allowed)
 - **Day 002** (2025-01-08) - **Calculator** that converts all numbers to strings, does string manipulation, then converts back
 - **Day 003** (2025-01-09) - **Sorting algorithm** that just shuffles randomly until it's sorted (bogosort but worse)
+- **Day 004** (2025-01-10) - **For loop** implemented using recursion and global variables
+
+---
 
 ## Contributing
 
@@ -61,6 +78,8 @@ Found an even worse way to do something? Have a suggestion for a new war crime? 
 
 Just remember: all contributions must be **intentionally educational**, not accidentally bad.
 
+---
+
 ## Why This Exists
 
 **For me:** Deliberate practice in understanding *why* best practices exist. Writing bad code on purpose forces you to think about tradeoffs, complexity, and the value of abstraction.
@@ -68,6 +87,8 @@ Just remember: all contributions must be **intentionally educational**, not acci
 **For you:** Entertainment, learning, and a reminder that "clever" code is usually just "bad" code in disguise.
 
 **For the world:** So future generations can look back and say "at least we learned from our mistakes."
+
+---
 
 ## Weekly Updates
 
@@ -78,6 +99,8 @@ Follow along as I document these crimes on LinkedIn under #CodingWarCrimes. Ever
 - Bonus: comparisons showing the "right way"
 
 **Goal:** Get featured in the Geneva Conventions as an honorary member for crimes against computer science. 🎯
+
+---
 
 ## Disclaimer
 
@@ -92,6 +115,8 @@ Follow along as I document these crimes on LinkedIn under #CodingWarCrimes. Ever
 - Appreciate your language's built-in features
 - Laugh at the absurdity
 - Share your favorite war crimes with others
+
+---
 
 ## License
 
