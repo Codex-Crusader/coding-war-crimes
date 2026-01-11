@@ -52,9 +52,10 @@ tiny-cs-projcets/
     ├── days_002__war_calculator.py
     ├── days_003__worse_bogosort.py
     ├── days_004__linierly_linked_hashmap.py
+    ├── days_005__  Boolean_with_ARITHMETIC.py
+    ├──
     ├──
     └──
-
 
 ```
 
@@ -66,7 +67,7 @@ tiny-cs-projcets/
 - **Day 002** (2025-01-08) - **Calculator** that converts all numbers to strings, does string manipulation, then converts back
 - **Day 003** (2025-01-09) - **Sorting algorithm** that just shuffles randomly until it's sorted (bogosort but worse)
 - **Day 004** (2025-01-10) - **For loop** implemented using recursion and global variables
-
+- **Day 005** (2025-01-11) - **Boolean logic** using only arithmetic operations (True = 1, False = 0, and statements become multiplication)
 ---
 
 ## Contributing
