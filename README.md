@@ -54,7 +54,7 @@ tiny-cs-projcets/
     ├── days_004__linierly_linked_hashmap.py
     ├── days_005__  Boolean_with_ARITHMETIC.py
     ├── days_006__Cursive_for_loop.py
-    ├──
+    ├── days_007__JSON_REGEX_parser.py
     └──
 
 ```
@@ -68,7 +68,8 @@ tiny-cs-projcets/
 - **Day 003** (2025-01-09) - **Sorting algorithm** that just shuffles randomly until it's sorted (bogosort but worse)
 - **Day 004** (2025-01-10) - **Hash Map** implemented with a linked List
 - **Day 005** (2025-01-11) - **Boolean logic** using only arithmetic operations (True = 1, False = 0, and statements become multiplication)
-- **Day 006** (2025-01-11) - **For loop** implemented using recursion and global variables
+- **Day 006** (2025-01-12) - **For loop** implemented using recursion and global variables
+- **Day 007** (2025-01-13) - **JSON parser** using only regex and string.replace()
 ---
 
 ## Contributing
