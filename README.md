@@ -56,7 +56,7 @@ tiny-cs-projcets/
     ├── days_006__Cursive_for_loop.py
     ├── days_007__JSON_REGEX_parser.py
     ├── days_008__non_binary_search.py
-    ├──
+    ├── days_009__comrade_fibonacci.py
     ├──
     └──
 
@@ -73,7 +73,8 @@ tiny-cs-projcets/
 - **Day 005** (2025-01-11) - **Boolean logic** using only arithmetic operations (True = 1, False = 0, and statements become multiplication)
 - **Day 006** (2025-01-12) - **For loop** implemented using recursion and global variables
 - **Day 007** (2025-01-13) - **JSON parser** using only regex and string.replace()
-- **Day 008** (2025-01-14) - - **Binary search** that checks every element anyway "just to be sure"
+- **Day 008** (2025-01-14) - **Binary search** that checks every element anyway "just to be sure"
+- **Day 009** (2025-01-15) - **Fibonacci** that recalculates from scratch every single time (no memoization, maximum pain)
 ---
 
 ## Contributing
