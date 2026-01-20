@@ -61,7 +61,7 @@ tiny-cs-projcets/
     ├── days_011__singleton_aint_single.py
     ├── days_012__in_a_pickle_data.py
     ├── days_013__permanent_rest_API.py
-    ├──
+    ├── days_014__exceptional_error.py
     └── 
 
 
@@ -84,6 +84,7 @@ tiny-cs-projcets/
 - **Day 011** (2025-01-17) - **Singleton pattern** implemented by storing everything in a text file
 - **Day 012** (2025-01-18) - **Database** that's just one giant pickled dictionary rewritten on every operation
 - **Day 013** (2025-01-19) - **REST API** where every endpoint is a POST and the verb is in the body
+- **Day 014** (2025-01-20) - **Error handling** using exceptions for control flow
 
 ---
 
