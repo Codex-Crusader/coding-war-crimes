@@ -85,6 +85,7 @@ tiny-cs-projcets/
 - **Day 012** (2025-01-18) - **Database** that's just one giant pickled dictionary rewritten on every operation
 - **Day 013** (2025-01-19) - **REST API** where every endpoint is a POST and the verb is in the body
 - **Day 014** (2025-01-20) - **Error handling** using exceptions for control flow
+- **Day 015** (2025-01-21) - **Variable names** that are just Unicode emojis
 
 ---
 
