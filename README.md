@@ -66,7 +66,6 @@ tiny-cs-projcets/
     ├──
     └── 
 
-days_016__Null_fit_check
 ```
 
 ---
