@@ -62,9 +62,11 @@ tiny-cs-projcets/
     ├── days_012__in_a_pickle_data.py
     ├── days_013__permanent_rest_API.py
     ├── days_014__exceptional_error.py
-    └── days_015__variable_shmariable.py
+    ├── days_016__Null_fit_check
+    ├──
+    └── 
 
-
+days_016__Null_fit_check
 ```
 
 ---
@@ -86,6 +88,7 @@ tiny-cs-projcets/
 - **Day 013** (2025-01-19) - **REST API** where every endpoint is a POST and the verb is in the body
 - **Day 014** (2025-01-20) - **Error handling** using exceptions for control flow
 - **Day 015** (2025-01-21) - **Variable names** that are just Unicode emojis
+- **Day 016** (2025-01-22) - **Null check** that catches exceptions instead of using if statements
 
 ---
 
