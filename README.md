@@ -64,7 +64,7 @@ tiny-cs-projcets/
     ├── days_014__exceptional_error.py
     ├── days_016__Null_fit_check
     ├── days_017__Reversed_bit_roles.py
-    └── 
+    └── days_018__too_much_thread.py
 
 ```
 
@@ -89,6 +89,7 @@ tiny-cs-projcets/
 - **Day 015** (2025-01-21) - **Variable names** that are just Unicode emojis
 - **Day 016** (2025-01-22) - **Null check** that catches exceptions instead of using if statements
 - **Day 017** (2025-01-23) - **String reversal** by converting to binary, reversing bits, then back
+- **Day 018** (2025-01-24) - **Threading** for a single print statement
 
 ---
 
