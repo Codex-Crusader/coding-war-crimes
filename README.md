@@ -4,7 +4,7 @@ A collection of small code snippets, experiments, and **intentional coding atroc
 
 ---
 
-## ⚠️ WARNING: Educational War Crimes Ahead
+## ⚠️ WARNING: Blasphemy Against Coding Ahead.
 
 **This code is intentionally bad.** Every file in this repo violates best practices, ignores optimization, and makes seasoned developers cry. The goal is simple: learn by breaking all the rules, then understanding exactly why those rules exist.
 
