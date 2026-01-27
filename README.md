@@ -64,8 +64,12 @@ tiny-cs-projcets/
     ├── days_014__exceptional_error.py
     ├── days_016__Null_fit_check
     ├── days_017__Reversed_bit_roles.py
-    └── days_018__too_much_thread.py
-
+    ├── days_018__too_much_thread.py
+    ├── days_019__OOPsie_daisy.py
+    ├── days_020__de_Q_stack
+    ├──
+    ├──
+    └──
 ```
 
 ---
@@ -90,7 +94,8 @@ tiny-cs-projcets/
 - **Day 016** (2025-01-22) - **Null check** that catches exceptions instead of using if statements
 - **Day 017** (2025-01-23) - **String reversal** by converting to binary, reversing bits, then back
 - **Day 018** (2025-01-24) - **Threading** for a single print statement
-
+- **Day 019** (2025-01-25) - **OOP** where every function is its own class with one method
+- **Day 020** (2025-01-26) - **Stack** implemented as a queue (dequeue from wrong end every time) 
 ---
 
 ## Contributing
