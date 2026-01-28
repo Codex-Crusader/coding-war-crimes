@@ -52,7 +52,7 @@ tiny-cs-projcets/
     ├── days_002__war_calculator.py
     ├── days_003__worse_bogosort.py
     ├── days_004__linierly_linked_hashmap.py
-    ├── days_005__  Boolean_with_ARITHMETIC.py
+    ├── days_005__Boolean_with_ARITHMETIC.py
     ├── days_006__Cursive_for_loop.py
     ├── days_007__JSON_REGEX_parser.py
     ├── days_008__non_binary_search.py
@@ -68,6 +68,7 @@ tiny-cs-projcets/
     ├── days_019__OOPsie_daisy.py
     ├── days_020__de_Q_stack
     ├── days_021__stack_wrestling.py
+    ├── days_022__binary__tree_street.py
     ├──
     └──
 ```
@@ -96,7 +97,8 @@ tiny-cs-projcets/
 - **Day 018** (2025-01-24) - **Threading** for a single print statement
 - **Day 019** (2025-01-25) - **OOP** where every function is its own class with one method
 - **Day 020** (2025-01-26) - **Stack** implemented as a queue (dequeue from wrong end every time)
-- **Day 021** (2025-02-27) - **Queue** implemented as two stacks that fight each other
+- **Day 021** (2025-01-27) - **Queue** implemented as two stacks that fight each other
+- **Day 022** (2025-01-28) - **Binary tree** stored as a single comma-separated string
 
 ---
 
