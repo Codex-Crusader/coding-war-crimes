@@ -69,7 +69,7 @@ tiny-cs-projcets/
     ├── days_020__de_Q_stack
     ├── days_021__stack_wrestling.py
     ├── days_022__binary__tree_street.py
-    ├──
+    ├── days_023__linked_disks.py
     └──
 ```
 
@@ -99,6 +99,7 @@ tiny-cs-projcets/
 - **Day 020** (2025-01-26) - **Stack** implemented as a queue (dequeue from wrong end every time)
 - **Day 021** (2025-01-27) - **Queue** implemented as two stacks that fight each other
 - **Day 022** (2025-01-28) - **Binary tree** stored as a single comma-separated string
+- **Day 023** (2025-01-29) - **Linked list** where each node is a separate file on disk
 
 ---
 
