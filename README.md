@@ -70,7 +70,7 @@ tiny-cs-projcets/
     ├── days_021__stack_wrestling.py
     ├── days_022__binary__tree_street.py
     ├── days_023__linked_disks.py
-    └──
+    └── days_024__hash_up.y
 ```
 
 ---
@@ -100,6 +100,7 @@ tiny-cs-projcets/
 - **Day 021** (2025-01-27) - **Queue** implemented as two stacks that fight each other
 - **Day 022** (2025-01-28) - **Binary tree** stored as a single comma-separated string
 - **Day 023** (2025-01-29) - **Linked list** where each node is a separate file on disk
+- **Day 024** (2025-01-30) - **Hash table** that uses len(key) as the hash function
 
 ---
 
