@@ -22,7 +22,7 @@ This repo explores:
 - **Algorithmic horror** - Data structures that violate every complexity class
 - **Cursed creativity** - Combining concepts that should never be combined
 
-No strict curriculum. No deadlines. Just curiosity-driven chaos and long-term learning.
+There is no strict curriculum. No deadlines. Just curiosity-driven chaos and long-term learning.
 
 ---
 
@@ -70,7 +70,7 @@ tiny-cs-projcets/
     ├── days_021__stack_wrestling.py
     ├── days_022__binary__tree_street.py
     ├── days_023__linked_disks.py
-    └── days_024__hash_up.y
+    └── days_024__hash_up.py
 ```
 
 ---
