@@ -107,8 +107,8 @@ tiny-cs-projcets/
 - **Day 024** (2025-01-30) - **Hash table** that uses len(key) as the hash function
 - **Day 025** (2025-01-31) - **Graph** represented as a badly formatted JSON string that gets parsed every operation
 - **Day 026** (2025-02-01) - **Heap** that maintains order by sorting the entire array on every insert
-- **Day 026** (2025-02-02) - **Trie** implemented using nested dictionaries 50 levels deep
-- **Day 026** (2025-02-03) - **Priority queue** that just appends and sorts on every pop
+- **Day 027** (2025-02-02) - **Trie** implemented using nested dictionaries 50 levels deep
+- **Day 028** (2025-02-03) - **Priority queue** that just appends and sorts on every pop
 ---
 
 ## Contributing
