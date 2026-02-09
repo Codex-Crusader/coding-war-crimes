@@ -75,9 +75,12 @@ tiny-cs-projcets/
     ├── days_026__heaped_together.py
     ├── days_027__a_good_day_to_trie_hard.py
     ├── days_028__non_priority_queue.py
+    ├── days_029__circular_prayers.py
+    ├── days_030__bubble_burst_sort.py
     ├──
     ├──
-    └── 
+    ├──
+    └──
 ```
 
 ---
@@ -112,6 +115,8 @@ tiny-cs-projcets/
 - **Day 026** (2025-02-01) - **Heap** that maintains order by sorting the entire array on every insert
 - **Day 027** (2025-02-02) - **Trie** implemented using nested dictionaries 50 levels deep
 - **Day 028** (2025-02-03) - **Priority queue** that just appends and sorts on every pop
+- **Day 029** (2025-02-04) - **Circular buffer** that's actually just a list with modulo and prayers
+- **Day 030** (2025-02-05) - **Bubble sort** but it randomly decides to go backwards sometimes
 ---
 
 ## Contributing
