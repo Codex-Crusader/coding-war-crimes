@@ -77,7 +77,7 @@ tiny-cs-projcets/
     ├── days_028__non_priority_queue.py
     ├── days_029__circular_prayers.py
     ├── days_030__bubble_burst_sort.py
-    ├──
+    ├── days_031_not_quick_sort.py
     ├──
     ├──
     └──
@@ -117,6 +117,8 @@ tiny-cs-projcets/
 - **Day 028** (2025-02-03) - **Priority queue** that just appends and sorts on every pop
 - **Day 029** (2025-02-04) - **Circular buffer** that's actually just a list with modulo and prayers
 - **Day 030** (2025-02-05) - **Bubble sort** but it randomly decides to go backwards sometimes
+- **Day 031** (2025-02-06) - **Quick sort** that always picks the worst pivot
+
 ---
 
 ## Contributing
