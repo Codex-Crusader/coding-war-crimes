@@ -2,6 +2,8 @@
 
 A collection of small code snippets, experiments, and **intentional coding atrocities**. This repo documents my journey as a long-term learner by deliberately writing terrible code to understand *why* we don't do things this way.
 
+> **Written up in full:** [Programming war crimes: terrible code, and what it costs](https://codex-crusader.github.io/writing/coding-war-crimes/)
+
 ---
 
 ## ⚠️ WARNING: Blasphemy Against Coding Ahead.
